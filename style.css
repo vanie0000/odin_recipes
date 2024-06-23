@@ -6,3 +6,14 @@ body {
 h1 {
     color: darkred;
 }
+  
+  ul {
+    background: violet;
+    padding: 20px;
+  }
+  
+  ul li {
+    background: pink;
+    color: darkred;
+    margin: 5px;
+  }
